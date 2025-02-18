@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, me chamo Gustavo Alonso! 👋
 
-<!--
-**guualonso/guualonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
+## 🚀 Projetos Destacados
+- [Jogo da Velha em C](https://github.com/seu-user/jogo-da-velha-c) - Um jogo multiplayer via terminal.
+- [Sistema de Gerenciamento em Java](https://github.com/seu-user/sistema-gerenciamento-java) - CRUD com MySQL.
+- [Análise de Dados em Python](https://github.com/seu-user/analise-dados-python) - Processamento de dados com Pandas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+LinkedIn: [seu-linkedin]([https://linkedin.com/in/seu-user](https://www.linkedin.com/in/gustavo-alonso-938051209/))  
+E-mail: gualonso14@gmail.com
+
+## 💻 Habilidades Técnicas
+- **Java**: POO, Spring Boot, JDBC, JUnit.
+- **C**: Programação de sistemas, algoritmos, manipulação de memória.
+- **Python**: Scripting, Django, Flask, Pandas.
+- **Ferramentas**: Git, Docker, MySQL, Linux.
+
+- ## 📌 Sobre Mim
+Sou um desenvolvedor com foco em back-end e sistemas embarcados. Adoro explorar como a lógica de programação resolve problemas do mundo real. No meu tempo livre, estudo algoritmos e participo de maratonas de programação.
