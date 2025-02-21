@@ -11,7 +11,7 @@
 - [Análise de Dados em Python](https://github.com/seu-user/analise-dados-python) - Processamento de dados com Pandas.
 
 ## 📫 Contato
-LinkedIn: [Gustavo Alonso]([https://linkedin.com/in/seu-user](https://www.linkedin.com/in/gustavo-alonso-938051209/))  
+LinkedIn: [Gustavo Alonso]([(https://www.linkedin.com/in/gustavo-alonso-938051209/)])  
 E-mail: gualonso14@gmail.com
 
 ## 💻 Habilidades Técnicas
