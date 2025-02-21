@@ -12,6 +12,7 @@
 
 ## 📫 Contato
 LinkedIn: [Gustavo Alonso](https://www.linkedin.com/in/gustavo-alonso-938051209/).
+
 E-mail: gualonso14@gmail.com
 
 ## 💻 Habilidades Técnicas
