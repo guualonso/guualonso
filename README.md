@@ -4,6 +4,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## 🚀 Projetos Destacados
 - [Jogo da Velha em C](https://github.com/seu-user/jogo-da-velha-c) - Um jogo multiplayer via terminal.
@@ -11,7 +13,7 @@
 - [Análise de Dados em Python](https://github.com/seu-user/analise-dados-python) - Processamento de dados com Pandas.
 
 ## 📫 Contato
-LinkedIn: [Gustavo Alonso](https://www.linkedin.com/in/gustavo-alonso-938051209/).
+LinkedIn: [Gustavo Alonso](https://www.linkedin.com/in/gustavo-alonso-938051209/)
 
 E-mail: gualonso14@gmail.com
 
@@ -19,7 +21,8 @@ E-mail: gualonso14@gmail.com
 - **Java**: POO, Spring Boot, JDBC, JUnit.
 - **C**: Programação de sistemas, algoritmos, manipulação de memória.
 - **Python**: Scripting, Django, Flask, Pandas.
+- **Flutter/Dart**: Desenvolvimento multiplataforma, UI/UX, integração com APIs.
 - **Ferramentas**: Git, Docker, MySQL, Linux.
 
-- ## 📌 Sobre Mim
-Sou um desenvolvedor com foco em back-end e sistemas embarcados. Adoro explorar como a lógica de programação resolve problemas do mundo real. No meu tempo livre, estudo algoritmos e participo de maratonas de programação.
+## 📌 Sobre Mim
+Sou um desenvolvedor com foco em back-end, sistemas embarcados e desenvolvimento mobile. Adoro explorar como a lógica de programação resolve problemas do mundo real. No meu tempo livre, estudo algoritmos e participo de maratonas de programação.
