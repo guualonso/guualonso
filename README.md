@@ -31,7 +31,7 @@
 - 📊 [Sistema de Gerenciamento em Java](https://github.com/seu-user/sistema-gerenciamento-java)  
   CRUD com MySQL.
 
-- 📈 [Análise de Dados em Python (EM DESENVOLVIMENTO)](https://github.com/seu-user/analise-dados-python) 
+- 📈 [Análise de Dados em Python (Em Desenvolvimento)](https://github.com/guualonso/analise-dados-python) 
   Processamento de dados com Pandas.
 
 - 📱 [FURIA App](https://github.com/guualonso/furia_app)  
