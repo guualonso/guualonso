@@ -28,7 +28,7 @@
 
 ## 🚀 Projetos Destacados
 
-- 📊 [Sistema de Gerenciamento em Java](https://github.com/seu-user/sistema-gerenciamento-java)  
+- 📊 [Sistema de Gerenciamento em Java](https://github.com/guualonso/SimuladordeContaBancaria)
   CRUD com MySQL.
 
 - 📈 [Análise de Dados em Python (Em Desenvolvimento)](https://github.com/guualonso/analise-dados-python) 
