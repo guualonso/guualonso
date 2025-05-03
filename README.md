@@ -28,8 +28,8 @@
 
 ## 🚀 Projetos Destacados
 
-- 📊 [Sistema de Gerenciamento em Java](https://github.com/guualonso/SimuladordeContaBancaria)
-  CRUD com MySQL.
+- 📊 [Simulador de Conta Bancário em Java](https://github.com/guualonso/SimuladordeContaBancaria)
+  Java com MySQL.
 
 - 📈 [Análise de Dados em Python (Em Desenvolvimento)](https://github.com/guualonso/analise-dados-python) 
   Processamento de dados com Pandas.
