@@ -28,30 +28,38 @@
 
 ## 🚀 Projetos Destacados
 
-- 📊 [Simulador de Conta Bancário em Java](https://github.com/guualonso/SimuladordeContaBancaria)
-  Java com MySQL.
+- 📊 [Simulador de Conta Bancária](https://github.com/guualonso/SimuladordeContaBancaria)  
+  Sistema bancário simples utilizando Java e MySQL.
 
-- 📈 [Análise de Dados em Python (Em Desenvolvimento)](https://github.com/guualonso/analise-dados-python) 
-  Processamento de dados com Pandas.
+- 📈 [Análise de Dados em Python (Em Desenvolvimento)](https://github.com/guualonso/analise-dados-python)  
+  Processamento e análise de dados utilizando Pandas.
 
 - 📱 [FURIA App](https://github.com/guualonso/furia_app)  
-  Aplicativo Flutter com integração ao Firebase, oferecendo autenticação, upload de documentos e estatísticas de partidas da equipe FURIA Esports.
+  Aplicativo Flutter com autenticação Firebase e estatísticas da equipe FURIA Esports.
+
+- 🛠️ [ChamadoPro](https://github.com/guualonso/ChamadoPro)  
+  Sistema de help desk utilizando Java, JavaFX, CSS e PostgreSQL. Gerenciamento de chamados com múltiplos perfis (cliente, técnico e administrador).
+
+- 🍔 [PediJá](https://github.com/guualonso/Pedi-Ja)  
+  Sistema de pedidos para restaurantes com banners (anúncios), carrinho de compras e autenticação via Firebase e login com Google.
 
 ---
 
 ## 💻 Habilidades Técnicas
 
-- **Java**: POO, Spring Boot.
+- **Java**: POO, JavaFX, Spring Boot.
 - **C**: Programação de sistemas, algoritmos, manipulação de memória.
 - **Python**: numpy, Django, Pandas, TesseractOCR.
 - **Flutter/Dart**: Desenvolvimento multiplataforma, UI/UX, integração com APIs.
-- **Ferramentas**: Git, MySQL, Linux.
+- **Banco de Dados**: MySQL, PostgreSQL.
+- **Arquitetura de Software**: Padrão MVC, diagramas UML.
+- **Ferramentas**: Git, Linux, Firebase.
 
 ---
 
 ## 📌 Sobre Mim
 
-Sou um desenvolvedor com foco em back-end, sistemas embarcados e desenvolvimento mobile. Adoro explorar como a lógica de programação resolve problemas do mundo real. No meu tempo livre, estudo algoritmos e participo de maratonas de programação.
+Sou um desenvolvedor apaixonado por tecnologia, com foco em back-end, sistemas embarcados e desenvolvimento mobile. Gosto de transformar lógica e código em soluções que impactam o mundo real. No tempo livre, estudo algoritmos, arquitetura de software e participo de maratonas de programação.
 
 ---
 
@@ -61,4 +69,3 @@ Sou um desenvolvedor com foco em back-end, sistemas embarcados e desenvolvimento
 - **E-mail**: [gualonso14@gmail.com](mailto:gualonso14@gmail.com)
 
 ---
-
